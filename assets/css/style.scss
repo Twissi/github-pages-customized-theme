@@ -9,8 +9,9 @@ a:hover, a:focus {
   font-weight: normal;
 }
 
-figure {
-  margin: 0;
+.highlighter-rouge .highlight * {
+  color: #333!important;
+  background-color: inherit!important;
 }
 
 .avatar {
