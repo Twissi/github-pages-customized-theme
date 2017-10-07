@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Add your css here */
+
+a:hover, a:focus {
+  font-weight: normal;
+}
+
+figure {
+  margin: 0;
+}
+
+.avatar {
+  border-radius: 25%;
+}
