@@ -39,15 +39,16 @@ Create file `/_layouts/default.html` in your site repository
 Copy the content of your Theme default.html in your new file `https://github.com/pages-themes/THEME_NAME/blob/master/_layouts/default.html`
 
 For example add your github avatar to the page (see available [GitHub metadata](#github-metadata))
-    {% raw %}
-    {% if site.github.contributors %}
-      <img src="{{ site.github.contributors[0].avatar_url }}" width="50" height="50">
-    {% endif %}
-    {% endraw %}
+<pre>
+  {% raw %}
+  {% if site.github.contributors %}
+    <img src="{{ site.github.contributors[0].avatar_url }}" width="50" height="50">
+  {% endif %}
+  {% endraw %}
+</pre>
 
 [Learn more about html layout](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/#customizing-your-jekyll-themes-html-layout)
 
-<br/>
 <br/>
 <br/>
 
