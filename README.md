@@ -4,6 +4,8 @@
 How to customize a GitHub Pages theme
 ================================
 
+All steps can also be found in [GitHub help](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
+
 1.Create GitHub Page
 ------------
 Create a new GitHub repo, enable [GitHub Pages](https://pages.github.com) and select minimal theme (or any other [supported theme](https://pages.github.com/themes/))
