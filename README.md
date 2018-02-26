@@ -1,4 +1,4 @@
-[Show generated on hosted project page by GitHub](https://twissi.github.io/pages-tryout/)
+[Show generated on hosted project page by GitHub](https://twissi.github.io/github-pages-customized-theme/)
 
 
 How to customize a GitHub Pages theme
